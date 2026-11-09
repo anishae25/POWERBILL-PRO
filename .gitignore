@@ -1,0 +1,8 @@
+target/
+.vscode/
+*.class
+consumers.txt
+bills.txt
+payments.txt
+bills_backup.txt
+MonthlyReport_*.txt
